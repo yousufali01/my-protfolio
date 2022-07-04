@@ -1,0 +1,151 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.color-sayan {
+    color: rgb(235, 8, 216);
+}
+
+.section-1 {
+    display: flex;
+}
+
+.d {
+    width: 50%;
+    padding-left: 50px;
+
+}
+
+.d image {
+    width: 100%;
+
+}
+
+.first-pera {
+    text-align: justify;
+    width: 500px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(237, 31, 196);
+    color: aliceblue;
+    background-image: linear-gradient(rgb(192, 65, 238), rgb(229, 38, 223));
+    font-weight: 700px;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+
+.section-1 {
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+
+
+}
+
+.section-2 {
+    display: flex;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+
+}
+
+
+
+.pera-2 {
+    text-align: justify;
+    margin-right: 50px;
+    width: 700px;
+
+}
+
+.link-g {
+    text-decoration: none;
+    background-color: rgb(237, 31, 196);
+    color: aliceblue;
+    background-image: linear-gradient(rgb(192, 65, 238), rgb(229, 38, 223));
+    font-weight: 700px;
+    padding: 10px 50px;
+    border-radius: 10px;
+
+}
+
+.dream-bg {
+    padding-top: 100px;
+    width: 100%;
+
+}
+
+.dream .dream-bg {
+    width: auto;
+    height: auto;
+    margin-top: 25px;
+}
+
+.section-2 .dream-bg {
+    width: 100%;
+
+}
+
+.d2 {
+    padding-top: 20px;
+}
+
+.last-head {
+    color: rgb(237, 31, 196);
+}
+
+.h2 {
+    font-size: 30px;
+}
+
+.Experiences-area {
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+
+}
+
+.experience {
+    display: flex;
+
+}
+
+.experience {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.Experiences-area .ex1 {
+    box-shadow: 10px 10px 40px gray;
+    width: 50%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 30px;
+    border-radius: 10px;
+    border-left: 10px solid rgb(243, 98, 98);
+
+}
+
+.Experiences-area .ex2 {
+    box-shadow: 10px 10px 40px gray;
+    width: 50%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 30px;
+    border-radius: 10px;
+    border-left: 10px solid magenta;
+
+}
+
+.f {
+    text-align: center;
+}

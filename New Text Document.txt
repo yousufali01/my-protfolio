@@ -1,0 +1,16 @@
+        <section class="dream-1">
+            <div class="d2">
+                <img src="image/yosusuf-00.png" height="500px" width="650px" alt="">
+            </div>
+            <div class="d2">
+                <h2>Dream Big</h2>
+                <h3>Lorem ipsum dolor sit amet.</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. At iusto beatae obcaecati reprehenderit
+                    cumque
+                    in et, dolores dolorem. Sunt assumenda deleniti facilis a reprehenderit sequi sint voluptatibus
+                    vitae,
+                    earum vero praesentium cumque harum dolorem ipsam laboriosam quam voluptatem. Corrupti, vel sint.
+                    Dolores voluptas commodi ullam cum dolorem quo rem molestias.</p>
+            </div>
+        </section>
+
